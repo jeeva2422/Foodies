@@ -2,7 +2,7 @@ import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Banner from "./components/Banner/Banner";
 import Hero from "./components/Hero/Hero";
-import Hotdessert from "./components/hotdessert/hotdessert";
+import Hotdessert from "./components/hotdessert/Hotdessert";
 import Navbar from "./components/Navbar/Navbar";
 import PopularRecipe from "./components/PopularRecipe/PopularRecipe";
 import Testimonial from "./components/Testimonial/Testimonial";
